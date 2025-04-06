@@ -69,7 +69,7 @@ Phishing_Detector/
 ## 📜 Licença
 - Este projeto é para fins acadêmicos. Desenvolvido como parte da disciplina de Linguagens Formais e Autômatos.
 
-- 👨‍💻 Autor: João Vitor Leal Targino |
+- 👨‍💻 Autor: João Vitor Leal Targino | Luis Gustavo de Carvalho Briedis
 - 📧 Contato: joaovitor.lealtargino@outlook.com
 
 ### 🔎 Dúvidas? Consulte a documentação da [Gmail API](https://developers.google.com/gmail/api "Requer login no Google").
