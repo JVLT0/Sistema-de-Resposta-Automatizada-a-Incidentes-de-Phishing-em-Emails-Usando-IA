@@ -1,0 +1,4 @@
+Phishing_Detector/venv
+Phishing_Detector/config/client_secret.json  
+Phishing_Detector/auth_tokens/
+__pycache__
