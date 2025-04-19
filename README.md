@@ -9,8 +9,7 @@ Um projeto acadêmico que utiliza BERT (Transformers) para identificar e-mails d
 ## 🚀 Como Executar
 ### **1. Clone o Repositório**
 ``` bash
-git clone https://github.com/seu-usuario/phishing-detector.git
-cd phishing-detector
+git clone https://github.com/JVLT0/Sistema-de-Resposta-Automatizada-a-Incidentes-de-Phishing-em-Emails-Usando-IA
 ```
 ### **2. Configure a API Gmail**
 #### 1. Criar um Projeto no Google Cloud
